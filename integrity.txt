@@ -14,8 +14,8 @@ purepy-spec	#364	NumPy support
 
 === Milestoned issues marked Proposed ===
 Repository	Issue	Title	Milestone
-purepy-spec	#343	Modules binding str	pure-py-spec 1.1
-purepy-spec	#347	`@functools.cache`	pure-py-spec 1.1
+purepy-spec	#343	Modules binding str	purepy-spec 1.1
+purepy-spec	#347	`@functools.cache`	purepy-spec 1.1
 
 === Active issues without a milestone ===
 
