@@ -1,6 +1,6 @@
 # org-workflow
 
-[![status page](https://github.com/pure-py/org-workflow/actions/workflows/status.yml/badge.svg)](https://pure-py.github.io/org-workflow/status.html)
+[![status page](https://github.com/purepy-org/org-workflow/actions/workflows/status.yml/badge.svg)](https://purepy-org.github.io/org-workflow/status.html)
 
 Dependency diagram, open pull requests and org-wide project integrity, published hourly to GitHub Pages.
 The repository also holds commands shared by the organisation's repositories.
@@ -8,7 +8,7 @@ The repository also holds commands shared by the organisation's repositories.
 ## Shared commands
 
 Other repositories run each shared command with
-`uvx --from git+https://github.com/pure-py/org-workflow@<tag> <command>`.
+`uvx --from git+https://github.com/purepy-org/org-workflow@<tag> <command>`.
 
 - `check-makefile`: checks that every make target is described
 - `makefile-report`: reports on a make target for the status page

@@ -1,4 +1,4 @@
-ORG := pure-py
+ORG := purepy-org
 PROJECT := 1
 # Statuses whose issues must have a milestone
 ACTIVE := In progress,Awaiting Review
