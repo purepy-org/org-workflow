@@ -1,21 +1,21 @@
-Checking project integrity for pure-py (project 1)...
+Checking project integrity for purepy-org (project 1)...
 
 === Open issues missing from the project board ===
 Repository	Issue	Title
 pldi2027	#45	Section 2.1 still mentions directory names (but the figure doesn't)
 pldi2027	#52	Future for PurePy, with more 'mutation-like' behaviour
-pure-py-spec	#56	Default arguments
-pure-py.github.io	#35	Automate version bump and build time check/test it works
-pure-py.github.io	#50	Evaluate running Pyodide in a worker thread
+purepy-org.github.io	#35	Automate version bump and build time check/test it works
+purepy-org.github.io	#50	Evaluate running Pyodide in a worker thread
+purepy-spec	#56	Default arguments
 
 === Open issues without a Status ===
 Repository	Issue	Title
-pure-py-spec	#364	NumPy support
+purepy-spec	#364	NumPy support
 
 === Milestoned issues marked Proposed ===
 Repository	Issue	Title	Milestone
-pure-py-spec	#343	Modules binding str	pure-py-spec 1.1
-pure-py-spec	#347	`@functools.cache`	pure-py-spec 1.1
+purepy-spec	#343	Modules binding str	pure-py-spec 1.1
+purepy-spec	#347	`@functools.cache`	pure-py-spec 1.1
 
 === Active issues without a milestone ===
 
@@ -23,8 +23,8 @@ pure-py-spec	#347	`@functools.cache`	pure-py-spec 1.1
 
 === Closed issues with open sub-issues ===
 Repository	Issue	Title	Open sub-issues
-pure-py-spec	#92	`mypy`-compatible gradual type system	#188
-pure-py-spec	#356	Submission	#292, pldi2027#46
-pure-py.github.io	#6	Integrate playground into website	#28
+purepy-org.github.io	#6	Integrate playground into website	#28
+purepy-spec	#92	`mypy`-compatible gradual type system	#188
+purepy-spec	#356	Submission	#292, pldi2027#46
 
 11 issue(s) found.
